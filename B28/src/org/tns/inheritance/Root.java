@@ -1,4 +1,8 @@
-package org.tns.oopsconcepts;
+package org.tns.inheritance;
+
+import org.tns.inheritance.Root;
+import org.tns.inheritance.node;
+
 class Root
 {
 	void Display1()

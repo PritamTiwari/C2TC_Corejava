@@ -1,4 +1,9 @@
-package org.tns.oopsconcepts;
+package org.tns.inheritance;
+
+
+import org.tns.inheritance.Dress;
+import org.tns.inheritance.Indian;
+import org.tns.inheritance.western;
 
 public class Hierarchical {
 	

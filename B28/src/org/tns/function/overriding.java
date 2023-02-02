@@ -1,4 +1,8 @@
-package org.tns.oopsconcepts;
+package org.tns.function;
+
+import org.tns.function.payment;
+import org.tns.function.overriding;
+
 class payment
 {
 int swip_with=1000;
@@ -7,7 +11,7 @@ void show()
 	System.out.println("super class");
 }
 }
-public class swip extends payment {
+public class overriding extends payment {
 int swip_left=15000;
 void show()
 {
@@ -15,7 +19,7 @@ void show()
 	System.out.println("child class");
 }
 public static void main(String[] args) {
-	swip ob=new swip();
+	overriding ob=new overriding();
 	ob.show();
 }
 }

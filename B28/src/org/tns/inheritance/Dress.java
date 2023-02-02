@@ -1,4 +1,6 @@
-package org.tns.oopsconcepts;
+package org.tns.inheritance;
+
+import org.tns.inheritance.Dress;
 
 class Dress
 {
