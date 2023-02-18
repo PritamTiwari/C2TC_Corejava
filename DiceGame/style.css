@@ -1,0 +1,49 @@
+.container{
+    text-align: center;
+    margin:auto;
+    width:70%;
+   
+   }
+   
+   .dice{
+    text-align: center;
+    display:inline-block;
+   }
+   body{
+   
+   
+   background-color: grey;
+   }
+   h1{
+    font-size: 4rem;
+    font-family: "Times New Roman", Times, serif;
+    color: white;
+   
+   }
+   
+   
+   p{
+    font-size: 2rem;
+    font-family: "Times New Roman", Times, serif;
+    color: rgb(255, 255, 255);
+   }
+   
+   img{
+       max-width: 50%;
+   border:  1px solid black;
+   border-radius: 45px;
+   width: 60%;
+   }
+   
+   
+   
+   
+   footer{
+   
+   text-align: center;
+   font-size: medium;
+   color:white;
+   font-family: "Times New Roman", Times, serif;
+   margin-top: auto;
+   
+   }
